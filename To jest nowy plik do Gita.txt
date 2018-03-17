@@ -3,3 +3,5 @@ Nowy Git
 Raz dwa Rafa³
 
 ] java.java.java
+
+Dzia³anie opcji Sync
