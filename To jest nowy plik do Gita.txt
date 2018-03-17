@@ -1,8 +1,10 @@
 Nowy Git
 
-Raz dwa Rafa≈Ç
+Raz dwa Rafa≥
 
 ] java.java.java
 
-Dzia≈Çanie opcji Sync
-Dzia≈Çanie opcji resolve
+Dzia≥anie opcji Sync
+Dzia≥anie opcji resolve
+
+resolve
